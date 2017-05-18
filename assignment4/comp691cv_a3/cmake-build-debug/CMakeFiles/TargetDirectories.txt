@@ -1,0 +1,3 @@
+/Users/m.ding/Documents/concordia/courses/comp691cv/assignment4/comp691cv_a3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/m.ding/Documents/concordia/courses/comp691cv/assignment4/comp691cv_a3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/m.ding/Documents/concordia/courses/comp691cv/assignment4/comp691cv_a3/cmake-build-debug/CMakeFiles/comp691cv_a3.dir

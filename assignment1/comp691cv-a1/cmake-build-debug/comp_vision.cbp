@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="comp_vision"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\..\..\usr\local\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="comp_vision">
+				<Option output="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/comp_vision" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 comp_vision"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="comp_vision/fast">
+				<Option output="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/comp_vision" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 comp_vision/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/main.cpp">
+			<Option target="comp_vision"/>
+		</Unit>
+		<Unit filename="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/../../../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/../../../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/../../../../../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/m.ding/Documents/concordia/courses/comp691cv/assignment1/comp691cv-a1/../../../../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

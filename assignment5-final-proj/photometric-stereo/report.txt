@@ -1,0 +1,7 @@
+[Discussion]
+
+0. basically followed the assignment specs and lecture slides, BUT...
+
+1. When doing surface fitting, I tried to use eigen library but it took forever. Since the M I used was a diagnoal matrix, I'm able to resolve the equations manually instead of using eigen library. It was fast and the results seem not bad.
+
+2. When finding normals for images, results slightly differs when using least square method or not. 
